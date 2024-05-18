@@ -30,6 +30,8 @@ This basic keylogger program records and logs keystrokes to a file. It is intend
 **Ethical Considerations**
 
 **Explicit Permission: Ensure you have explicit permission from all users before running the keylogger.**
+
 **Controlled Environment: Use the keylogger in a controlled, ethical environment such as your personal computer or a test environment.**
+
 **Legal Compliance: Unauthorized use of keyloggers is illegal and unethical.**
 
